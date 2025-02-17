@@ -1,5 +1,5 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
-Hi there 👋 I'm Serena, a (hopefully) future front-end web developer based in Kent. I love crafting clean, user-friendly interfaces and learning new technologies to expand my skills.
+Hi there 👋 I'm Serena, a (hopefully) future web developer based in Kent. I love crafting clean, user-friendly interfaces and learning new technologies to expand my skills.
 
 ## 🌱 Currently Learning
 - Front-End Engineering on Codecademy 
