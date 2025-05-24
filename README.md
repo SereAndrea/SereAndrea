@@ -2,7 +2,8 @@
 Hi there 👋 I'm Serena, a (hopefully) future web developer based in Kent. I love crafting clean, user-friendly interfaces and learning new technologies to expand my skills.
 
 ## 🌱 Currently Learning
-- Front-End Engineering on Codecademy 
+- ITOnline - Coding Career Programme
+- Front-End Engineering on Codecademy
 
 ## 🔧 Technologies & Tools 
 - Languages: HTML, CSS, JavaScript
@@ -20,7 +21,8 @@ I’m eager to learn and grow as a web developer! If you’re an experienced dev
 -  💡 Tips on creating a standout developer portfolio.
 -  🌱Finding a tutor to help me with the course.
 
-If you have resources, advice, or time to mentor, feel free to reach out!
+## 📫 How to reach me:
+If you have any advice, feel free to reach out!
 You can connect with me via [Email](stoppatoserena@gmail.com) or [LinkedIn](https://www.linkedin.com/in/serena-stoppato-hewett-514b6985/).
 
 
