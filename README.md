@@ -6,8 +6,8 @@ Hi there 👋 I'm Serena, a (hopefully) future web developer based in Kent. I lo
 - Front-End Engineering on Codecademy
 
 ## 🔧 Technologies & Tools 
-- Languages: HTML, CSS, JavaScript
-- Tools: GitHub, Visual Studio
+- Languages: HTML, CSS, JavaScript, React, PHP, Python, C+
+- Tools: GitHub, Visual Studio, Command Line 
 - I am a complete beginner but I am looking to improve and pick up the necessary skills needed to become a Web Developer!
 
 ## ⚡ About Me
