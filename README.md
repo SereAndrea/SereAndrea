@@ -19,7 +19,7 @@ Hi there 👋 I'm Serena, a (hopefully) future web developer based in Kent. I lo
 I’m eager to learn and grow as a web developer! If you’re an experienced developer or someone who loves sharing knowledge, I’d love to connect. Here’s what I’m currently seeking help with:
 - 🧩 **Improving problem-solving skills** with coding challenges.
 -  💡 Tips on creating a standout developer portfolio.
--  🌱Finding a tutor to help me with the course.
+-  :computer: Someone to collaborate with on a JavaScript project.
 
 ## 📫 How to reach me:
 If you have any advice, feel free to reach out!
